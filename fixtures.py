@@ -1,0 +1,5 @@
+BASIC_URL = "https://airportgap.dev-tester.com/api/"
+AIRPORTS = "airports"
+AIRPORTS_DISTANCE = "airports/distance"
+TOKENS="tokens"
+FAVORITES="favorites"
